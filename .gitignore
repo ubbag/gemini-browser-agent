@@ -61,3 +61,12 @@ unpacked/
 *.local.ts
 *.local.js
 .claude/
+
+# Internal documentation (not for public repo)
+AUTONOMOUS_ROAMING_ROADMAP.md
+claude_changes.md
+Code_Audit_By_Opus4.5.md
+Code_Audit_By_Opus4.5_2.md
+HOW_IT_WORKS.md
+project_status.md
+Gemini_Changes.md
